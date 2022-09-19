@@ -49,3 +49,15 @@ alart(s)
 [系統分析與設計](https://docs.google.com/document/d/1FYCc3NVY7s0kLOhmK065RSIAA6jiZxkNjgtti3HtSYQ/edit)
 ***
 項目符號
+* Red
+* Green
+* Blue   
+或
++ Red
++ Green
++ Blue   
+或
+- Red
+- Green
+- Blue   
+***
