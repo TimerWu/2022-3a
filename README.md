@@ -46,7 +46,8 @@ alart(s)
 >>
 >>龜山鄉
 ***
-[系統分析與設計](https://docs.google.com/document/d/1FYCc3NVY7s0kLOhmK065RSIAA6jiZxkNjgtti3HtSYQ/edit)
+[系統分析與設計](https://docs.google.com/document/d/1FYCc3NVY7s0kLOhmK065RSIAA6jiZxkNjgtti3HtSYQ/edit)   
+EXCEL : <https://docs.google.com/spreadsheets/d/1JSNWTr2TzXg-PeEpLZq7tJ5TGUQeRl7o/edit#gid=619210187>
 ***
 項目符號
 * Red
@@ -60,4 +61,9 @@ alart(s)
 - Red
 - Green
 - Blue   
+***
+字型:   
+**粗體**   
+*斜體*   
+~~刪除線~~   
 ***
