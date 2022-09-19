@@ -14,14 +14,8 @@ ___
 - [x] done
 
 ***
-```python
-s = "Python syntax highlighting"
-print s
-```
-```javascript
-var s = "JavaScript syntax highlighting";
-alart(s)
-```
+
+
 ***
 
 | Left-Aligned | Center-Aligned | Right-Aligned |
@@ -66,4 +60,32 @@ EXCEL : <https://docs.google.com/spreadsheets/d/1JSNWTr2TzXg-PeEpLZq7tJ5TGUQeRl7
 **粗體**   
 *斜體*   
 ~~刪除線~~   
+***
+Emphasis, aka italics, with asterisks or underscores.   
+Strong emphasis aka blod, with **asterisks** or **underscores.**   
+Combined emphasis with **asterisks and underscores.**   
+Strikethrough use two tildes,~~Scratch this.~~   
+***
+1.First ordered list item   
+2.Another item   
+  ..* Unordered sub-list.   
+3.Actual number don't matter, just that it's a number   
+  --1.Ordered sub-list   
+  ...2. 2nd   
+4.And another item.   
+  ...* note 1   
+  ...* note 2   
+  ***  note 3
+***
+- [ ] todo list
+- [ ] 2nd things
+***
+```python
+s = "Python syntax highlighting"
+print s
+```
+```javascript
+var s = "JavaScript syntax highlighting";
+alart(s)
+```
 ***
