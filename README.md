@@ -15,13 +15,10 @@ ___
 
 ***
 
-
-***
-
 | Left-Aligned | Center-Aligned | Right-Aligned |
 | :----------- | :-------------:| -----:|
 | col 3 is     | some wordy text| $1600 |
-| col 3 is     | `centered       |   $12 |
+| col 2 is     | centered       |   $12 |
 | zebra stripes| are naet       |    $1 |
 | test| 測試         |    $3333 |
 
@@ -41,7 +38,10 @@ ___
 >>龜山鄉
 ***
 [系統分析與設計](https://docs.google.com/document/d/1FYCc3NVY7s0kLOhmK065RSIAA6jiZxkNjgtti3HtSYQ/edit)   
-EXCEL : <https://docs.google.com/spreadsheets/d/1JSNWTr2TzXg-PeEpLZq7tJ5TGUQeRl7o/edit#gid=619210187>
+   
+EXCEL : <https://docs.google.com/spreadsheets/d/1JSNWTr2TzXg-PeEpLZq7tJ5TGUQeRl7o/edit#gid=619210187>   
+   
+[Markdown 簡報](https://docs.google.com/presentation/d/14MgmC6shL01DNZnlzcuKCG_iNxtlOsQWK7pNjuetHnU/edit#slide=id.g2445e83f41_0_35)
 ***
 項目符號
 * Red
@@ -80,12 +80,29 @@ Strikethrough use two tildes,~~Scratch this.~~
 - [ ] todo list
 - [ ] 2nd things
 ***
+python code   
 ```python
 s = "Python syntax highlighting"
 print s
 ```
+***
+javascript code   
 ```javascript
 var s = "JavaScript syntax highlighting";
 alart(s)
 ```
 ***
+Colons can be used to align columns   
+| **Tables**    | **Are**        | **Cool** |
+| :---------    | :------------: | --------:|
+| col 3 is      | right-aligned  | $1600    |
+| col 2 is      | centered       | $12      |
+| zebra stripes | are neat       | $1       |   
+
+There must be at least 3 dashes separating each header cell.   
+The outer pipes (|) are optional, and you don't need to make the   
+raw Markdown line up prettily. You can also use inline Markdown.   
+| **Markdown** | **Less**  | **Pretty** |
+| :---------   | :-------: | ----------:|
+| Still        | `renders` | **nicely** |
+| 1            | 2         | 3          |   
