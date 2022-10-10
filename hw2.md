@@ -25,8 +25,9 @@ gantt
     程式測試           :a6, after a4  , 30d
     撰寫使用手冊       :a7, after a5  , 25d
     轉換檔案           :a8, after a6  , 20d
-    系統測試           :a8, after a8  , 25d
-    
+    系統測試           :a9, after a8  , 25d
+    使用者訓練         :a10, after a9  , 20d
+    使用者測試         :a11, after a10  , 25d
     section 前置任務
     任務分配    :after a1  , 1d
     取得硬體    :after a1  , 1d
@@ -36,4 +37,8 @@ gantt
     撰寫使用手冊    :after a5  , 5d
     轉換檔案    :after a6  , 5d
     系統測試    :after a8  , 6d
+    使用者訓練(1)    :after a9  , 7d
+    使用者訓練(2)    :after a9  , 8d
+    使用者測試(1)    :after a10  , 9d
+    使用者測試(2)    :after a10  , 10d
 ```
